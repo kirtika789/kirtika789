@@ -23,5 +23,5 @@
 - 💼 Career Guidance Website — HTML,CSS,Javascript,
 
 ### 📫 Connect With Me
-[LinkedIn](www.linkedin.com/in/kirtikasingh1)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kirtikasingh1/)
 <!-- [Portfolio](YOUR_PORTFOLIO)  -->  
