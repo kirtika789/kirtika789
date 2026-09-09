@@ -3,5 +3,4 @@
 - 🎓 B.Tech IT Student | 📊 Aspiring Data Analyst | 💻 Web Developer
 - 🛠️ Python • SQL • Power BI • Excel • React | 🚀 Building real-world projects
 
-### 📫 Connect With Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/kirtikasingh1/)
