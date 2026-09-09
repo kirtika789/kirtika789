@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Kirtika Singh 👋
 
-<!--
-**kirtika789/kirtika789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Student | Aspiring Data Analyst | Web Developer
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 📊 Interested in Data Analytics & Business Insights
+- 🌐 Building projects with HTML, CSS, JavaScript, React
+- 🐍 Learning Python, SQL, Power BI & Data Visualization
+- 🚀 Currently preparing for placements
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+
+**Languages:** C++, Python, JavaScript, SQL  
+**Data:** Excel, Power BI, PostgreSQL, Pandas, Matplotlib  
+**Web:** HTML, CSS, JavaScript, React, Node.js  
+**Tools:** Git, GitHub, VS Code
+
+### 📊 Featured Projects
+
+- 📈 Sales Data Analysis — Python + SQL + Power BI
+- 🗑️ Smart Garbage Management System — Data Analysis + Dashboard
+- 🎵 Music Analysis System — PostgreSQL
+- 💼 Career Guidance Website — HTML,CSS,Javascript,
+
+### 📫 Connect With Me
+[LinkedIn](www.linkedin.com/in/kirtikasingh1)
+<!-- [Portfolio](YOUR_PORTFOLIO)  -->  
