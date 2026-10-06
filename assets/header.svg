@@ -1,76 +1,228 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg
+  width="1200"
+  height="300"
+  viewBox="0 0 1200 300"
+  fill="none"
+  xmlns="http://www.w3.org/2000/svg">
 
-<defs>
-  <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#0F172A"/>
-    <stop offset="0.5" stop-color="#252238"/>
-    <stop offset="1" stop-color="#8F6680"/>
-  </linearGradient>
+  <defs>
 
-  <linearGradient id="glow" x1="200" y1="0" x2="1000" y2="300" gradientUnits="userSpaceOnUse">
-    <stop stop-color="#C4B5FD" stop-opacity="0.10"/>
-    <stop offset="0.5" stop-color="#F0ABFC" stop-opacity="0.16"/>
-    <stop offset="1" stop-color="#FDA4AF" stop-opacity="0.08"/>
-  </linearGradient>
-</defs>
+    <!-- Main background -->
+    <linearGradient
+      id="background"
+      x1="0"
+      y1="0"
+      x2="1200"
+      y2="300"
+      gradientUnits="userSpaceOnUse">
 
-<!-- Background -->
-<rect width="1200" height="300" rx="18" fill="url(#background)"/>
+      <stop offset="0%" stop-color="#E8EAF6"/>
+      <stop offset="45%" stop-color="#EDE7F6"/>
+      <stop offset="75%" stop-color="#E8DFF0"/>
+      <stop offset="100%" stop-color="#DCC7D9"/>
 
-<!-- Soft glow -->
-<ellipse cx="920" cy="90" rx="360" ry="170" fill="url(#glow)"/>
+    </linearGradient>
 
-<!-- Decorative curves -->
-<path
-  d="M0 245 C220 180 420 285 650 225 C850 172 1020 230 1200 175 V300 H0 Z"
-  fill="#0B1020"
-  fill-opacity="0.55"/>
+    <!-- Blue glow -->
+    <radialGradient
+      id="blueGlow"
+      cx="0"
+      cy="0"
+      r="1"
+      gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(180 50) rotate(35) scale(380 220)">
 
-<path
-  d="M0 260 C230 205 430 300 670 240 C870 190 1030 245 1200 195"
-  stroke="#D8B4FE"
-  stroke-opacity="0.16"
-  stroke-width="2"
-  fill="none"/>
+      <stop
+        offset="0%"
+        stop-color="#B8C7F5"
+        stop-opacity="0.65"/>
 
-<!-- Decorative dots -->
-<circle cx="105" cy="75" r="4" fill="#F0ABFC" fill-opacity="0.55"/>
-<circle cx="1080" cy="65" r="5" fill="#C4B5FD" fill-opacity="0.45"/>
-<circle cx="1125" cy="105" r="3" fill="#FDA4AF" fill-opacity="0.50"/>
+      <stop
+        offset="100%"
+        stop-color="#B8C7F5"
+        stop-opacity="0"/>
 
-<!-- Name -->
-<text
-  x="600"
-  y="120"
-  text-anchor="middle"
-  fill="#FFFFFF"
-  font-family="Arial, Helvetica, sans-serif"
-  font-size="52"
-  font-weight="700">
-  Kirtika Singh
-</text>
+    </radialGradient>
 
-<!-- Professional headline -->
-<text
-  x="600"
-  y="165"
-  text-anchor="middle"
-  fill="#F5F3FF"
-  font-family="Arial, Helvetica, sans-serif"
-  font-size="22"
-  font-weight="500">
-  Data Analyst | AI &amp; ML Learner | Web Developer
-</text>
+    <!-- Pink glow -->
+    <radialGradient
+      id="pinkGlow"
+      cx="0"
+      cy="0"
+      r="1"
+      gradientUnits="userSpaceOnUse"
+      gradientTransform="translate(1050 70) rotate(145) scale(360 220)">
 
-<!-- Supporting line -->
-<text
-  x="600"
-  y="205"
-  text-anchor="middle"
-  fill="#DDD6FE"
-  font-family="Arial, Helvetica, sans-serif"
-  font-size="15">
-  Building with Data • Building for the Web • Learning AI &amp; ML
-</text>
+      <stop
+        offset="0%"
+        stop-color="#E7B8D3"
+        stop-opacity="0.55"/>
+
+      <stop
+        offset="100%"
+        stop-color="#E7B8D3"
+        stop-opacity="0"/>
+
+    </radialGradient>
+
+  </defs>
+
+
+  <!-- ===================================== -->
+  <!-- BACKGROUND -->
+  <!-- ===================================== -->
+
+  <rect
+    width="1200"
+    height="300"
+    rx="18"
+    fill="url(#background)"
+  />
+
+
+  <!-- ===================================== -->
+  <!-- SOFT GLOWS -->
+  <!-- ===================================== -->
+
+  <ellipse
+    cx="180"
+    cy="50"
+    rx="380"
+    ry="220"
+    fill="url(#blueGlow)"
+  />
+
+  <ellipse
+    cx="1050"
+    cy="70"
+    rx="360"
+    ry="220"
+    fill="url(#pinkGlow)"
+  />
+
+
+  <!-- ===================================== -->
+  <!-- DECORATIVE LOWER WAVE -->
+  <!-- ===================================== -->
+
+  <path
+    d="
+      M0 245
+      C190 185 370 275 570 230
+      C770 185 960 235 1200 165
+      L1200 300
+      L0 300
+      Z
+    "
+    fill="#FFFFFF"
+    fill-opacity="0.38"
+  />
+
+
+  <!-- Thin wave line -->
+
+  <path
+    d="
+      M0 258
+      C210 205 390 290 590 238
+      C790 188 980 245 1200 185
+    "
+    stroke="#7C6A9B"
+    stroke-opacity="0.28"
+    stroke-width="2"
+    fill="none"
+  />
+
+
+  <!-- ===================================== -->
+  <!-- DECORATIVE DOTS -->
+  <!-- ===================================== -->
+
+  <circle
+    cx="105"
+    cy="75"
+    r="4"
+    fill="#7184C8"
+    fill-opacity="0.65"
+  />
+
+  <circle
+    cx="1080"
+    cy="65"
+    r="5"
+    fill="#A86D91"
+    fill-opacity="0.55"
+  />
+
+  <circle
+    cx="1125"
+    cy="105"
+    r="3"
+    fill="#7184C8"
+    fill-opacity="0.60"
+  />
+
+  <circle
+    cx="95"
+    cy="215"
+    r="3"
+    fill="#A86D91"
+    fill-opacity="0.45"
+  />
+
+
+  <!-- ===================================== -->
+  <!-- MAIN NAME -->
+  <!-- ===================================== -->
+
+  <text
+    x="600"
+    y="118"
+    text-anchor="middle"
+    fill="#202033"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="52"
+    font-weight="700">
+
+    Kirtika Singh
+
+  </text>
+
+
+  <!-- ===================================== -->
+  <!-- PROFESSIONAL HEADLINE -->
+  <!-- ===================================== -->
+
+  <text
+    x="600"
+    y="164"
+    text-anchor="middle"
+    fill="#303047"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="22"
+    font-weight="600">
+
+    Data Analyst | AI &amp; ML Learner | Web Developer
+
+  </text>
+
+
+  <!-- ===================================== -->
+  <!-- SUPPORTING LINE -->
+  <!-- ===================================== -->
+
+  <text
+    x="600"
+    y="204"
+    text-anchor="middle"
+    fill="#55516A"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="15"
+    font-weight="500">
+
+    Building with Data • Building for the Web • Learning AI &amp; ML
+
+  </text>
+
 
 </svg>
