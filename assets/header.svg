@@ -1,0 +1,76 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#0F172A"/>
+    <stop offset="0.5" stop-color="#252238"/>
+    <stop offset="1" stop-color="#8F6680"/>
+  </linearGradient>
+
+  <linearGradient id="glow" x1="200" y1="0" x2="1000" y2="300" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#C4B5FD" stop-opacity="0.10"/>
+    <stop offset="0.5" stop-color="#F0ABFC" stop-opacity="0.16"/>
+    <stop offset="1" stop-color="#FDA4AF" stop-opacity="0.08"/>
+  </linearGradient>
+</defs>
+
+<!-- Background -->
+<rect width="1200" height="300" rx="18" fill="url(#background)"/>
+
+<!-- Soft glow -->
+<ellipse cx="920" cy="90" rx="360" ry="170" fill="url(#glow)"/>
+
+<!-- Decorative curves -->
+<path
+  d="M0 245 C220 180 420 285 650 225 C850 172 1020 230 1200 175 V300 H0 Z"
+  fill="#0B1020"
+  fill-opacity="0.55"/>
+
+<path
+  d="M0 260 C230 205 430 300 670 240 C870 190 1030 245 1200 195"
+  stroke="#D8B4FE"
+  stroke-opacity="0.16"
+  stroke-width="2"
+  fill="none"/>
+
+<!-- Decorative dots -->
+<circle cx="105" cy="75" r="4" fill="#F0ABFC" fill-opacity="0.55"/>
+<circle cx="1080" cy="65" r="5" fill="#C4B5FD" fill-opacity="0.45"/>
+<circle cx="1125" cy="105" r="3" fill="#FDA4AF" fill-opacity="0.50"/>
+
+<!-- Name -->
+<text
+  x="600"
+  y="120"
+  text-anchor="middle"
+  fill="#FFFFFF"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="52"
+  font-weight="700">
+  Kirtika Singh
+</text>
+
+<!-- Professional headline -->
+<text
+  x="600"
+  y="165"
+  text-anchor="middle"
+  fill="#F5F3FF"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="22"
+  font-weight="500">
+  Data Analyst | AI &amp; ML Learner | Web Developer
+</text>
+
+<!-- Supporting line -->
+<text
+  x="600"
+  y="205"
+  text-anchor="middle"
+  fill="#DDD6FE"
+  font-family="Arial, Helvetica, sans-serif"
+  font-size="15">
+  Building with Data • Building for the Web • Learning AI &amp; ML
+</text>
+
+</svg>
