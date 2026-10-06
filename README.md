@@ -1,14 +1,14 @@
-<!-- ===================== HEADER ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e46,100:8f6680&height=220&section=header&text=Kirtika%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Analyst%20%7C%20AI%20%26%20ML%20Learner%20%7C%20Web%20Developer&descAlignY=60&descSize=17" width="100%"/>
+<img src="./assets/header.svg" width="100%" alt="Kirtika Singh - Data Analyst | AI & ML Learner | Web Developer"/>
 
 </div>
 
+<br>
+
 <div align="center">
 
-### 📊 Building with Data • 🌐 Building for the Web • 🤖 Learning AI & ML
+📊 **Building with Data** &nbsp; • &nbsp; 🌐 **Building for the Web** &nbsp; • &nbsp; 🤖 **Learning AI & ML**
 
 </div>
 
@@ -16,15 +16,15 @@
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech Information Technology student with an interest in **Data Analytics and Web Development**.
+🎓 B.Tech Information Technology student interested in **Data Analytics and Web Development**.
 
-📊 Building practical projects using **Python, SQL, Excel and Power BI** to improve my data analysis skills.
+📊 Building practical projects using **Python, SQL, Excel and Power BI** to strengthen my data analysis skills.
 
 🌐 Developing web projects using **HTML, CSS, JavaScript and React**.
 
 🤖 Currently **learning and exploring AI & Machine Learning concepts**, including supervised learning, classification, regression, model evaluation, feature engineering and neural networks.
 
-🚀 I enjoy learning by building projects and continuously improving my technical skills.
+🚀 I enjoy learning by building projects and continuously improving my technical and problem-solving skills.
 
 ---
 
@@ -69,9 +69,9 @@
 
 ## 🤖 Learning AI & ML
 
-Currently exploring the fundamentals of **Artificial Intelligence and Machine Learning**.
+I'm currently learning and exploring the fundamentals of **Artificial Intelligence and Machine Learning**.
 
-**Concepts I'm learning:**
+### Concepts I'm Exploring
 
 - Supervised Learning
 - Unsupervised Learning
@@ -81,7 +81,7 @@ Currently exploring the fundamentals of **Artificial Intelligence and Machine Le
 - Model Evaluation
 - Neural Networks
 
-> 🌱 Learning step by step through concepts, experimentation and projects.
+> 🌱 Learning step by step through concepts, experimentation and practical projects.
 
 ---
 
@@ -89,89 +89,151 @@ Currently exploring the fundamentals of **Artificial Intelligence and Machine Le
 
 ## 📊 Data Analytics Projects
 
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
 ### 📈 Sales Performance Dashboard
 
-**Power BI dashboard project** focused on analyzing e-commerce sales data through interactive visualizations and business insights.
+A focused **Power BI dashboard project** for analyzing e-commerce sales data through interactive visualizations and business insights.
 
-**Focus:** Power BI • Data Visualization • Sales Analysis
+**Focus**
 
----
+`Power BI` `Data Visualization` `Sales Analysis`
 
-### 📊 E-Commerce Data Analytics — End-to-End Analysis
+<br>
 
-A complete e-commerce data analytics project combining **Python, SQL, Excel and Power BI** to analyze sales and order performance.
+<a href="https://github.com/kirtika789/Sales-Performance-Dashboard">
+<img src="https://img.shields.io/badge/View%20Project-8F6680?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-**Tools used:**
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 E-Commerce Data Analytics
+
+An **end-to-end data analytics project** combining Python, SQL, Excel and Power BI to analyze e-commerce sales and order performance.
+
+**Tools**
 
 `Python` `NumPy` `Pandas` `Matplotlib` `SQL` `Excel` `Power BI`
 
-**Includes:**
+**Includes**
 
-- 🐍 Data analysis using Python
-- 🗄️ SQL-based analysis
-- 📊 Excel analysis
-- 📈 E-Commerce Sales Analysis Dashboard
-- 📦 Order KPI Analysis Dashboard
-- 💡 Business-focused insights
+📈 E-Commerce Sales Analysis Dashboard  
+📦 Order KPI Analysis Dashboard
 
----
+<br>
+
+<a href="https://github.com/kirtika789/E-Commerce_Sales_Analysis_Project">
+<img src="https://img.shields.io/badge/View%20Project-8F6680?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🎵 Music Analysis
 
 A SQL project using **PostgreSQL** to practice analyzing online music store data.
 
-**Concepts practiced:**
+**Concepts**
 
 `Joins` `Subqueries` `Aggregate Functions` `Data Analysis`
 
+<br>
+
+<a href="https://github.com/kirtika789/Music_analysis">
+<img src="https://img.shields.io/badge/View%20Project-8F6680?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+</td>
+
+</tr>
+</table>
+
 ---
 
-# 🌐 Web Development Projects
+## 🌐 Web Development Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 💼 Career Guide
 
-A web development project designed to provide career-related guidance and resources.
+A web development project focused on providing career guidance and useful career-related resources.
 
-**Technologies:**
+**Technologies**
 
 `HTML` `CSS` `JavaScript` `React`
 
-**Features:**
+**Features**
 
-- 🌙 Dark / Light mode
-- 🔐 Login and localStorage validation
-- 👤 Profile page
-- 📝 Career quiz
-- 💼 Internship links
-- 📱 Responsive mobile navigation
+🌙 Dark / Light Mode  
+🔐 Login & localStorage Validation  
+👤 Profile Page  
+📝 Career Quiz  
+💼 Internship Links  
+📱 Responsive Mobile Navigation
 
----
+<br>
+
+<a href="https://github.com/kirtika789/Career_guide">
+<img src="https://img.shields.io/badge/View%20Project-8F6680?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
 
 ### 💪 Fitness Website
 
 A team-based web development project where I primarily contributed to the **frontend**.
 
-**Focus:**
+**Focus**
 
 `HTML` `CSS` `JavaScript` `Frontend Development`
+
+<br>
+
+<a href="https://github.com/kirtika789/Fitness">
+<img src="https://img.shields.io/badge/View%20Project-8F6680?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 🎯 Currently Focusing On
 
-📊 Strengthening my Data Analytics skills
+📊 Strengthening my **Data Analytics** skills
 
-🐍 Improving Python for Data Analysis
+🐍 Improving **Python for Data Analysis**
 
-🗄️ Practicing SQL and data querying
+🗄️ Practicing **SQL and data querying**
 
-📈 Building Power BI dashboards and analytics projects
+📈 Building practical **Power BI dashboards and analytics projects**
 
-🤖 Learning and exploring AI & ML concepts
+🤖 Learning and exploring **AI & ML concepts**
 
-🌐 Continuing to improve my Web Development skills
+🌐 Continuing to improve my **Web Development** skills
 
-🚀 Building practical projects and learning through hands-on practice
+🚀 Learning through practical projects and continuous practice
 
 ---
 
@@ -217,4 +279,10 @@ A team-based web development project where I primarily contributed to the **fron
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f6680,50:312e46,100:0f172a&height=120&section=footer" width="100%"/>
+<br>
+
+<div align="center">
+
+<img src="./assets/header.svg" width="100%" alt="Footer decoration"/>
+
+</div>
