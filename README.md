@@ -194,22 +194,40 @@ A web development project focused on providing career guidance and useful career
 <img src="https://img.shields.io/badge/View%20Project-8F6680?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
+<a href="https://career-guide-tawny.vercel.app">
+<img src="https://img.shields.io/badge/Live%20Demo-8F6680?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </td>
 
 <td width="50%" valign="top">
 
 ### 💪 Fitness Website
 
-A team-based web development project where I primarily contributed to the **frontend**.
+A team-based web development project providing **fitness** content.
 
 **Focus**
 
 `HTML` `CSS` `JavaScript` `Frontend Development`
 
+## ✨ Features
+
+- 🏋️ Fitness-focused and engaging user interface
+- 📱 Responsive design for different screen sizes
+- 🎨 Interactive frontend using HTML, CSS, and JavaScript
+- 🧭 Simple and user-friendly navigation
+- 💪 Fitness and workout-focused content
+- 🖥️ Clean and organized webpage layouts
+- 👥 Developed as a collaborative team project
+- 🎨 Primarily contributed to frontend development
+  
 <br>
 
 <a href="https://github.com/kirtika789/Fitness">
 <img src="https://img.shields.io/badge/View%20Project-8F6680?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://fitnesswebsite.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-8F6680?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </td>
