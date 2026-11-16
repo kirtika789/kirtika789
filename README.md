@@ -259,7 +259,7 @@ A team-based web development project providing **fitness** content.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=kirtika789&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="165"/>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=kirtika789&show_icons=true&theme=dark&hide_border=true&rank_icon=github" height="165"/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kirtika789&theme=dark&hide_border=true" height="165"/>
 
